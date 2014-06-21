@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.7.0_45-b18 (Oracle Corporation)
+Class-Path: lib/javacpp.jar lib/javacv.jar lib/SmartDashboard.jar lib/
+ WPICameraExtension.jar lib/WPIJavaCV.jar lib/javacv-macosx-x86_64.jar
+
